@@ -6,6 +6,12 @@ public class Main {
         String miString = "Ramiro";
 
         System.out.println(miString);
+
+
+        int HolacomoVa = 12345;
+
+        System.out.println(HolacomoVa);
+
     }
 
 
